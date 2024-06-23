@@ -8,8 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from tkinter import messagebox, Tk
 
-codigo_empregador= ""
-codigo_pin = 0
+codigo_empregador= "3BNHM"
+codigo_pin = 9685
 cpf_user = ""
 
 def exibir_notificacao(horario):
